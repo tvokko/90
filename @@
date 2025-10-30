@@ -1,15 +1,14 @@
 
-#EXTINF:-1
+#EXTINF:-1 tvg-logo="" group-title="☆SPORT☆", 1
 https://raw.githubusercontent.com/tvokko/90/refs/heads/main/%40
-
-#EXTINF:-1
+#EXTINF:-1 tvg-logo="" group-title="☆SPORT☆", 2
 https://github.com/tvokko/90/blob/main/tes
 
-#EXTINF:-1
+#EXTINF:-1 tvg-logo="" group-title="☆SPORT☆", 3
 https://github.com/tvokko/90/blob/main/tes2
 
-#EXTINF:-1
+#EXTINF:-1 tvg-logo="" group-title="☆SPORT☆", 4
 https://github.com/tvokko/90/refs/heads/main/tes
 
-#EXTINF:-1
+#EXTINF:-1 tvg-logo="" group-title="☆SPORT☆", 5
 https://github.com/tvokko/90/refs/heads/main/tes2
